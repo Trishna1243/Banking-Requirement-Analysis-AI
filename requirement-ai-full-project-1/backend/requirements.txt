@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pypdf
+torch
+transformers
+peft
+accelerate
+bitsandbytes
+python-docx
+chromadb
+sentence-transformers
